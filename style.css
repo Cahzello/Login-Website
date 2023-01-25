@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    font-size: 15px;
+    text-align: center;
+    padding: 30px;
+    background-color: crimson;
+    font-weight: 300px;
+}
+body{
+
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.pixelstalk.net%2Fwp-content%2Fuploads%2F2016%2F05%2FPhoto-sky-wallpapers-desktop-desgins.jpg&f=1&nofb=1&ipt=40ff4ede8b96f37c5320649382283cd5b19561f9d4f17a1bea4619da09095034&ipo=images);
+        background-repeat: no-repeat;
+}
+.container{
+    width: 350px;
+    background: lightblue;
+    margin: 80px auto;
+    padding: 30px 20px;
+    border-radius: 15px;
+}
+
+.tombol_Login{
+    background: #46de4b;
+    color: white;
+    font-size: 11pt;
+    width: 100%;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 20px;
+
+}
+.Login{
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
+    font-size: 11pt;
+    margin-bottom: 20px;
+}
